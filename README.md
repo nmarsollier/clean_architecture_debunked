@@ -4,7 +4,7 @@ SOLID GRASP CUPID
 
 Clean is not OO
 
-Clean if for backend
+Clean if for backend it is old too old it failed on backend it is not going g to be successful on ui
 
 Failed on backend
 
